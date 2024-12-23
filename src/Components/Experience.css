@@ -1,0 +1,9 @@
+.arrow {
+  visibility: hidden;
+  font-family: 'Material Icons';
+  font-weight: bold;
+}
+
+.hoverable:hover .arrow {
+  visibility: visible;
+}

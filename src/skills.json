@@ -1,0 +1,35 @@
+[
+  {
+    "Languages": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "C/C++",
+      "C#",
+      "SQL"
+    ]
+  },
+  {
+    "Frameworks": [
+      "React",
+      "Spring Boot",
+      "Node.js",
+      "Angular",
+      "jQuery",
+      "ASP.NET"
+    ]
+  },
+  {
+    "Software": [
+      "GitHub",
+      "Visual Studio Code",
+      "Microsoft Office Suite",
+      "Adobe Creative Suite",
+      "Figma",
+      "Windows OS"
+    ]
+  },
+  { "Certifications": ["Responsive Web Design (freeCodeCamp)"] }
+]

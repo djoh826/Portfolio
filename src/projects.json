@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Comer Collection Virtual Gallery",
+    "date": "Aug 2023 - Dec 2023",
+    "group": "UTD",
+    "technologies": ["JavaScript", "React", "Node.js", "SQL"],
+    "bulletPoints": [
+      "Developed an application with a team of 6 members for art students at UTD to create virtual galleries utilizing art in UTD's Comer Collection database.",
+      "Implemented database authentication for user accounts on the web application to allow students and teachers to securely access their accounts."
+    ]
+  },
+  {
+    "title": "Ecommerce Clone",
+    "date": "Dec 2023 - Present",
+    "group": "Personal",
+    "technologies": ["JavaScript", "HTML", "CSS", "React"],
+    "bulletPoints": [
+      "Created a mock ecommerce website using JavaScript, HTML, CSS, and React components.",
+      "Utilized CSS media queries to improve responsiveness, accommodating for devices of any screen size.",
+      "Used React framework to allow for a single-page, efficient application with various ecommerce functionality across the website including sales on specific products, a dynamic shopping cart, product tags, etc."
+    ]
+  },
+  {
+    "title": "Mock Airbnb Database",
+    "date": "May 2023 - Present",
+    "group": "Personal",
+    "technologies": ["SQL"],
+    "bulletPoints": [
+      "Developed a mockup of an Airbnb database, writing the database and its constraints in SQL.",
+      "Created ER diagrams and models for the database to facilitate relational interactions and functionality."
+    ]
+  }
+]

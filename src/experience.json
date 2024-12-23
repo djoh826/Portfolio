@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Argo",
+    "technology": "Java, SQL, Spring Boot, Azure, React",
+    "date": "Aug 2024 - Present",
+    "bulletPoints": [
+      "Developed Rest API endpoints according to project requirements to facilitate frontend and database interaction.",
+      "Created SQL queries and scripts to optimize database environments, reducing development resource costs.",
+      "Upgraded legacy code components to ensure application and security vulnerabilities, resulting in reduced compilation time by 25% and improved security."
+    ]
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Argo",
+    "technology": "Java, SQL",
+    "date": "June 2024 - Aug 2024",
+    "bulletPoints": [
+      "Assisted in documenting application error codes for both and backend systems, enhancing clarity and maintainability.",
+      "Conducted thorough testing of API endpoints with various access roles, ensuring robust application security.",
+      "Gained proficiency in Azure DevOps processes, including branch management, pull requests, version control, and work item tracking."
+    ]
+  }
+]
