@@ -4,6 +4,7 @@ import skills from '../skills.json';
 function Skills() {
   return (
     <>
+      {/* TODO: Add luicide icons for respective skills */}
       <div id="skills" className="section">
         <h2>Skills</h2>
         {skills.map((skill, index) => (

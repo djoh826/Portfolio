@@ -5,6 +5,10 @@ function Experience() {
   const [visibleSections, setVisibleSections] = useState<{
     [key: number]: boolean;
   }>({});
+  //TODO: ul should animate downwards
+  //TODO: fix bulleted list
+  //TODO: add photos in json for experience + education
+  //TODO: create cards for projects?
 
   const handleClick = (index: number) => {
     setVisibleSections((prevState) => ({
