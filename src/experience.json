@@ -3,11 +3,12 @@
     "title": "Software Engineer",
     "company": "Argo",
     "technology": "Java, SQL, Spring Boot, Azure, React",
-    "date": "Aug 2024 - Present",
+    "date": "Aug 2024 - Aug 2025",
     "bulletPoints": [
-      "Developed Rest API endpoints according to project requirements to facilitate frontend and database interaction.",
-      "Created SQL queries and scripts to optimize database environments, reducing development resource costs.",
-      "Upgraded legacy code components to ensure application and security vulnerabilities, resulting in reduced compilation time by 25% and improved security."
+      "Integrated into 4 development teams using diverse front-end and back-end stacks, completing production-ready code updates, UI fixes, and back-end logic improvements within the first week on each team, contributing to faster iteration cycles across multiple projects.",
+      "Optimized database performance by rewriting inefficient queries into batch operations and improving SQL scripts and indexing, cutting query execution time by up to 500% and removing 200+ redundant calls per request to enhance system scalability.",
+      "Developed Spring Boot REST endpoints in Java to support CRUD operations, data processing workflows, reporting functions, and auditing/logging, expanding backend functionality and improving system reliability.",
+      "Managed 250+ pull requests and branch merges, and implemented CI/CD workflows using Azure DevOps, coordinating development via integrated Kanban boards and collaborating across teams using GitHub and Jira for version control and task tracking."
     ]
   },
   {
@@ -16,9 +17,9 @@
     "technology": "Java, SQL",
     "date": "June 2024 - Aug 2024",
     "bulletPoints": [
-      "Assisted in documenting application error codes for both and backend systems, enhancing clarity and maintainability.",
-      "Conducted thorough testing of API endpoints with various access roles, ensuring robust application security.",
-      "Gained proficiency in Azure DevOps processes, including branch management, pull requests, version control, and work item tracking."
+      "Overhauled documentation for 200+ application error codes for both frontend and backend systems, enhancing clarity and maintainability.",
+      "Conducted comprehensive testing of 300+ API endpoints across multiple access roles, resolving 50 authorization issues and enhancing overall application security.",
+      "Upgraded legacy Java components to ensure compatibility and mitigate vulnerabilities, reducing compilation time by 25% and strengthening application security."
     ]
   }
 ]

@@ -1,35 +1,140 @@
 [
   {
-    "Languages": [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Python",
-      "Java",
-      "C/C++",
-      "C#",
-      "SQL"
+    "Programming Languages": [
+      {
+        "Skill": "JavaScript",
+        "IconId": "js"
+      },
+      {
+        "Skill": "TypeScript",
+        "IconId": "ts"
+      },
+      {
+        "Skill": "Java",
+        "IconId": "java"
+      },
+      {
+        "Skill": "Python",
+        "IconId": "python"
+      },
+      {
+        "Skill": "C++",
+        "IconId": "cpp"
+      },
+      {
+        "Skill": "C#",
+        "IconId": "cs"
+      },
+      {
+        "Skill": "C",
+        "IconId": "c"
+      }
     ]
   },
   {
-    "Frameworks": [
-      "React",
-      "Spring Boot",
-      "Node.js",
-      "Angular",
-      "jQuery",
-      "ASP.NET"
+    "Frontend": [
+      {
+        "Skill": "HTML",
+        "IconId": "html"
+      },
+      {
+        "Skill": "CSS",
+        "IconId": "css"
+      },
+      {
+        "Skill": "React",
+        "IconId": "react"
+      },
+      {
+        "Skill": "Next.js",
+        "IconId": "nextjs"
+      },
+      {
+        "Skill": "jQuery",
+        "IconId": "jquery"
+      },
+      {
+        "Skill": "Vite",
+        "IconId": "vite"
+      },
+      {
+        "Skill": "Material UI",
+        "IconId": "mui"
+      }
     ]
   },
   {
-    "Software": [
-      "GitHub",
-      "Visual Studio Code",
-      "Microsoft Office Suite",
-      "Adobe Creative Suite",
-      "Figma",
-      "Windows OS"
+    "Backend": [
+      {
+        "Skill": "Express.js",
+        "IconId": "express"
+      },
+      {
+        "Skill": "Spring",
+        "IconId": "spring"
+      },
+      {
+        "Skill": "NestJS",
+        "IconId": "nest"
+      },
+      {
+        "Skill": "FastAPI",
+        "IconId": "fastapi"
+      }
     ]
   },
-  { "Certifications": ["Responsive Web Design (freeCodeCamp)"] }
+  {
+    "DevOps": [
+      {
+        "Skill": "Linux",
+        "IconId": "linux"
+      },
+      {
+        "Skill": "Docker",
+        "IconId": "docker"
+      },
+      {
+        "Skill": "Microsoft Azure",
+        "IconId": "azure"
+      },
+      {
+        "Skill": "Postman",
+        "IconId": "postman"
+      },
+      {
+        "Skill": "Git",
+        "IconId": "git"
+      },
+      {
+        "Skill": "GitHub Actions",
+        "IconId": "githubactions"
+      }
+    ]
+  },
+  {
+    "Others": [
+      {
+        "Skill": "Figma",
+        "IconId": "figma"
+      },
+      {
+        "Skill": "Adobe Photoshop",
+        "IconId": "photoshop"
+      },
+      {
+        "Skill": "Wordpress",
+        "IconId": "wordpress"
+      },
+      {
+        "Skill": "Jira",
+        "IconId": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/jira.png",
+        "CustomLink": true
+      },
+      {
+        "Skill": "Microsoft Office",
+        "IconId": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-office.png",
+        "CustomLink": true
+      }
+    ]
+  }
 ]

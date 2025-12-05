@@ -5,7 +5,7 @@ function Projects() {
   return (
     <>
       <div id="projects" className="section">
-        <h2>Projects</h2>
+        <h2 className="header">Projects</h2>
         {projects.map((project, index) => (
           <p className="project" key={index}>
             <strong>{project.title}</strong>

@@ -5,7 +5,7 @@ function Education() {
   return (
     <>
       <div id="education" className="section">
-        <h2>Education</h2>
+        <h2 className="header">Education</h2>
         {education.map((edu, index) => (
           <p className="edu" key={index}>
             <strong>{edu.school}</strong> - {edu.location}
