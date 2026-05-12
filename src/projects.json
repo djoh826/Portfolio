@@ -8,7 +8,9 @@
       "Designed geospatial search using PostGIS and a transactional reservation system in PostgreSQL, preventing booking conflicts and enabling precise, location-based property discovery under concurrent usage.",
       "Integrated AWS S3 for signed image uploads with server-side resizing and CDN delivery, and implemented Redis caching to accelerate search results and reduce database load during high traffic.",
       "Deployed the platform to Vercel and AWS Lambda with automated CI/CD pipelines via GitHub Actions, ensuring consistent, production-ready releases with minimal downtime."
-    ]
+    ],
+    "repoUrl": "https://github.com/djoh826/CouchCrasher",
+    "demoUrl": "https://couchcrasher.vercel.app/"
   },
   {
     "title": "Comer Collection Virtual Gallery",
@@ -29,7 +31,8 @@
       "Created a mock ecommerce website using JavaScript, HTML, CSS, and React components.",
       "Utilized CSS media queries to improve responsiveness, accommodating for devices of any screen size.",
       "Used React framework to allow for a single-page, efficient application with various ecommerce functionality across the website including sales on specific products, a dynamic shopping cart, product tags, etc."
-    ]
+    ],
+    "repoUrl": "https://github.com/djoh826/Ecommerce"
   },
   {
     "title": "Mock Airbnb Database",
