@@ -1,5 +1,5 @@
-import './Skills.css';
-import skills from '../skills.json';
+import "./Skills.css";
+import skills from "../skills.json";
 
 function Skills() {
   type SkillItem = {
@@ -15,7 +15,7 @@ function Skills() {
 
   return (
     <div id="skills" className="section">
-      <h1 className="header" style={{ marginBottom: '-0.5rem' }}>
+      <h1 className="header" style={{ marginBottom: "-0.5rem" }}>
         Skills
       </h1>
 
@@ -28,7 +28,7 @@ function Skills() {
             <h3>{categoryName}</h3>
             <div className="skill-list">
               {items.map((skill, i) => (
-                <div key={i} className="skill">
+                <div key={i} className="skill" data-label={skill.Skill}>
                   <img
                     src={
                       skill.CustomLink

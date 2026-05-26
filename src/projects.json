@@ -20,7 +20,8 @@
     "bulletPoints": [
       "Developed an application with a team of 6 members for art students at UTD to create virtual galleries utilizing art in UTD's Comer Collection database.",
       "Implemented database authentication for user accounts on the web application to allow students and teachers to securely access their accounts."
-    ]
+    ],
+    "repoUrl": "https://github.com/UTDATEC/comer-unnamed-women"
   },
   {
     "title": "Ecommerce Clone",
